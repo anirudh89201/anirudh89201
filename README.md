@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh89201&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh89201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh89201" alt="anirudh89201" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anir63885" target="blank"><img src="https://img.shields.io/twitter/follow/anir63885?logo=twitter&style=for-the-badge" alt="anir63885" /></a> </p>
 
 - 🔭 I’m currently working on [Spring Boot](https://github.com/anirudh89201/Spring_Boot)
