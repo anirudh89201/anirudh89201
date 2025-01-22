@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **anirudhreddy89201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kMb6-TFUYCejQoHEOVsVC-HVbv2DVYWF/view](https://drive.google.com/file/d/1kMb6-TFUYCejQoHEOVsVC-HVbv2DVYWF/view)
-
-- ⚡ Fun fact **I think I am Funny**
+- 📄 Know about my experiences [https://tinyurl.com/ycxsar7s])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
