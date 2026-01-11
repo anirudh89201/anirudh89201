@@ -1,70 +1,53 @@
 <h1 align="center">Hi 👋, I'm Anirudh Reddy</h1>
 <h3 align="center">Site Reliability Engineer | DevOps Engineer | Backend Developer</h3>
 
----
-
-- 🌱 Currently learning **SRE practices, AWS, Kubernetes, Terraform**
-- 👨‍💻 All my projects are available at **https://github.com/anirudh89201**
-- 💬 Ask me about **DevOps, Cloud, Backend, CI/CD, Linux, Node.js**
-- 📫 Reach me at **anirudhreddy89201@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anirudh-reddy-925487164" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://github.com/anirudh89201" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<!-- Core Languages -->
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Mobile / Frontend -->
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Cloud & DevOps -->
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-</a>
-<a href="https://www.terraform.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh89201&layout=compact" />
+<a href="https://linkedin.com/in/anirudh-reddy-925487164">
+<img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Reddy-blue?logo=linkedin&style=for-the-badge"/>
+</a>
+<a href="mailto:anirudhreddy89201@gmail.com">
+<img src="https://img.shields.io/badge/Email-anirudhreddy89201%40gmail.com-red?style=for-the-badge"/>
+</a>
+<a href="https://github.com/anirudh89201">
+<img src="https://img.shields.io/badge/GitHub-anirudh89201-black?logo=github&style=for-the-badge"/>
+</a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+- 🌱 Learning **SRE practices, AWS, Kubernetes, Terraform**
+- 🔧 Interested in **Cloud Infrastructure, CI/CD, Reliability Engineering**
+- 💬 Ask me about **DevOps, Backend, Linux, Node.js**
+- 📍 Open to **Backend / DevOps / SRE roles (India)**
+
+---
+
+## 🧰 Tech Stack
+
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+### 📱 Mobile / Backend
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+
+---
+
+## 🚀 Open Source
+- 🛠 **CI/CD with GitHub Actions**  
+  Added automated workflow for PRs and main branch builds  
+  🔗 https://github.com/richie-rich90454/training-generator/pull/8
+
+
+⭐ *Focused on building reliable systems, scalable infrastructure, and clean backend services.*
